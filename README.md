@@ -1,4 +1,5 @@
 <h1>Spotify Search App</h1>
+<img width="1377" alt="spotify-website" src="https://github.com/user-attachments/assets/9ad8e544-25df-4b41-9a1e-5f904af5f82d" />
 <hr>
 access link: https://myspotifysearch.netlify.app/
 
@@ -7,6 +8,8 @@ access link: https://myspotifysearch.netlify.app/
 - get access to similar artists to your search with the direct link to their page
 
 <h3>Tech Stack:</h3>
+
+
 <ul>
 <li>
  Frontend: HTML + CSS + JavaScript + Bootstrap
